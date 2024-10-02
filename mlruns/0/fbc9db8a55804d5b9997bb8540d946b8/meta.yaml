@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/AISE_Ch2/mlruns/0/fbc9db8a55804d5b9997bb8540d946b8/artifacts
+end_time: 1727443465814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbc9db8a55804d5b9997bb8540d946b8
+run_name: gifted-goose-299
+run_uuid: fbc9db8a55804d5b9997bb8540d946b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727443454385
+status: 3
+tags: []
+user_id: User

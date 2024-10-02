@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/AISE_Ch2/mlruns/0/6ab1f35f89be4c50ba772e9bddba9ecf/artifacts
+end_time: 1727443660745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ab1f35f89be4c50ba772e9bddba9ecf
+run_name: powerful-squid-797
+run_uuid: 6ab1f35f89be4c50ba772e9bddba9ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727443648800
+status: 3
+tags: []
+user_id: User
